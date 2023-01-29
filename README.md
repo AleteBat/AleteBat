@@ -1,7 +1,7 @@
 <h2 align="left">欢迎光临俭静书院🙋</h2>
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=AleteBat&show_icons=true&theme=tokyonight&line_height=27">
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AleteBat&theme=radical">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alete1&theme=radical">
 </p>
 
 
