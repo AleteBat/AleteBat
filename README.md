@@ -1,13 +1,16 @@
 <h2 align="left">欢迎光临俭静书院🙋</h2>
+
+<div align="center">
+  <img width="200" src="https://avatars.githubusercontent.com/u/123862023?v=4" /> </div>
+
+<h3 align="center">为天地立心，为生民立命，为往圣继绝学，为万世开太平。</h3>
+
 <p align = "center">
 <img src = "https://github-readme-stats.vercel.app/api?username=AleteBat&show_icons=true&theme=tokyonight&line_height=27">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AleteBat&theme=radical">
 </p>
 
-
-<p align="center">
 <h3 align="center">技术支持 Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
-
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -19,16 +22,14 @@
 <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
 </p>
 
-
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
   <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AleteBat&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
-<h4 align="center">为天地立心，为生民立命，为往圣继绝学，为万世开太平。</h4>
-
 <h3 align="center">联系我们 Contact Us <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h3>
+
 <p align="center">
   <a href="https://weibo.com/u/6384424288"><img src="https://img.shields.io/badge/-%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A-red" /></a>
   <a href="https://space.bilibili.com/549606798"><img src="https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-orange" /></a>
@@ -55,4 +56,5 @@
 </p>
 
 <div align="center"> <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AleteBat&theme=dracula" /> </div>
+
 <div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=AleteBat" /> </div>
