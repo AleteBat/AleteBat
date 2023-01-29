@@ -1,5 +1,8 @@
-<h2 align="left">欢迎光临俭静书院🙋</h2>
-
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=欢迎光临俭静书院!;&center=true&size=30">
+  </a>
+</h1>
 <div align="center">
   <img width="200" src="https://avatars.githubusercontent.com/u/123862023?v=4" /> </div>
 
