@@ -10,7 +10,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AleteBat&theme=radical">
 </p>
 
-<h3 align="center">技术支持 Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
+<h2 align="center">技术支持 Technology Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></h2>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
-<h3 align="center">联系我们 Contact Us <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30"></h3>
+<h2 align="center">联系我们 Contact Us <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 
 <p align="center">
   <a href="https://weibo.com/u/6384424288"><img src="https://img.shields.io/badge/-%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A-red" /></a>
@@ -43,7 +43,7 @@
 
 <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=AleteBat&theme=radical" /> </div>
 
-<h3 align="center">友情链接 Exchange Link 💗</h3>
+<h2 align="center">友情链接 Exchange Link 💗</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
