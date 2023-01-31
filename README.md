@@ -27,7 +27,7 @@
 
 <div align="center">
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300310676.png" />
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=AleteBat&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaoe&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
   <img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300312623.png" />
 </div>
 
