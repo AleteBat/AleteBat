@@ -32,13 +32,12 @@
 <h2 align="center">联系我们 Contact Us <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h2>
 
 <p align="center">
-  <a href="https://weibo.com/u/6384424288" target="_blank"><img src="https://img.shields.io/badge/-%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A-red" /></a>
+  <a href="https://weibo.com/u/6384424288"target="_blank"><img src="https://img.shields.io/badge/-%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A-red" /></a>
   <a href="https://space.bilibili.com/549606798" target="_blank"><img src="https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-orange" /></a>
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAPCXkHrMPiap6lTTa5EKfUZKlkpI3dC3mwjF9K9oAkf8/?source=profile" target="_blank"><img src="https://img.shields.io/badge/-%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1-yellow" /></a>
   <a href="https://www.zhihu.com/people/aaov" target="_blank"><img src="https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-yellowgreen" /></a>
   <a href="https://www.ximalaya.com/zhubo/136903362" target="_blank"><img src="https://img.shields.io/badge/-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85-green" /></a>
   <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5OTgwNzg0MA==&action=getalbum&album_id=2449680020848738305&from_msgid=2247484040&from_itemidx=1&count=3&nolastread=1#wechat_redirect" target="_blank"><img src="https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen" /></a>
-  <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue" /></a>
   <a href="https://facebook.com/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-blue" /></a>
   <a href="https://github.com/aaoe/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-lightgrey" /></a>
 </p>
