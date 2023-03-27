@@ -37,7 +37,8 @@
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAPCXkHrMPiap6lTTa5EKfUZKlkpI3dC3mwjF9K9oAkf8/?source=profile"><img src="https://img.shields.io/badge/-%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1-yellow" /></a>
   <a href="https://www.zhihu.com/people/aaov"><img src="https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-yellowgreen" /></a>
   <a href="https://www.ximalaya.com/zhubo/136903362"><img src="https://img.shields.io/badge/-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85-green" /></a>
-  <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5OTgwNzg0MA==&action=getalbum&album_id=2449680020848738305&from_msgid=2247484040&from_itemidx=1&count=3&nolastread=1#wechat_redirect" /></a>
+  <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5OTgwNzg0MA==&action=getalbum&album_id=2449680020848738305&from_msgid=2247484040&from_itemidx=1&count=3&nolastread=1#wechat_redirect"><img src="https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen" /></a>
+  <a href="https://facebook.com/"><img src="https://img.shields.io/badge/-Facebook-blue" /></a>
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/-Facebook-blue" /></a>
   <a href="https://github.com/aaoe/"><img src="https://img.shields.io/badge/-GitHub-lightgrey" /></a>
 </p>
