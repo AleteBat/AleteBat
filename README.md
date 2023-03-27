@@ -35,9 +35,9 @@
   <a href="https://weibo.com/u/6384424288"><img src="https://img.shields.io/badge/-%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A-red" /></a>
   <a href="https://space.bilibili.com/549606798"><img src="https://img.shields.io/badge/-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-orange" /></a>
   <a href="https://www.toutiao.com/c/user/token/MS4wLjABAAAAPCXkHrMPiap6lTTa5EKfUZKlkpI3dC3mwjF9K9oAkf8/?source=profile"><img src="https://img.shields.io/badge/-%E4%BB%8A%E6%97%A5%E5%A4%B4%E6%9D%A1-yellow" /></a>
-  <a href="https://www.zhihu.com/people/aletezhu-bian-fu"><img src="https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-yellowgreen" /></a>
+  <a href="https://www.zhihu.com/people/aaov"><img src="https://img.shields.io/badge/-%E7%9F%A5%E4%B9%8E-yellowgreen" /></a>
   <a href="https://www.ximalaya.com/zhubo/136903362"><img src="https://img.shields.io/badge/-%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85-green" /></a>
-  <a href="https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E4%BF%AD%E9%9D%99%E4%B9%A6%E9%99%A2&ie=utf8&_sug_=n&_sug_type_="><img src="https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-brightgreen" /></a>
+  <a href="https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MjM5OTgwNzg0MA==&action=getalbum&album_id=2449680020848738305&from_msgid=2247484040&from_itemidx=1&count=3&nolastread=1#wechat_redirect" /></a>
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/-Facebook-blue" /></a>
   <a href="https://github.com/aaoe/"><img src="https://img.shields.io/badge/-GitHub-lightgrey" /></a>
 </p>
